@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 20, 2019, 9:47:57 AM
+    Author     : KiaraVaz
+*/
+
+/* 
+Styling of all the pages
+*/
+body{
+    font-size: 20px;
+    background-color: lightcyan;
+    color: black;
+    margin: 40px;
+    padding: 20px;
+}
+
+h1{
+    font-size: 30px
+}
+
